@@ -2,7 +2,7 @@
 
 AI Stylist is an intelligent fashion recommendation system that automates personal styling using Machine Learning and Deep Learning. It provides personalized outfit recommendations based on user preferences, product attributes, and contextual information.
 
-<h3> Key Features </h3>
+<h3> Features </h3>
 
 - Personalized outfit recommendations
 - Context-aware suggestions based on season, gender, and usage
